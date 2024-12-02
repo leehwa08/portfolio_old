@@ -1,0 +1,11 @@
+/* CSS Reset */
+* {margin: 0; padding: 0; color: inherit; font-family: inherit; text-decoration: none; border: 0; outline: 0; border-style: solid; border-color: transparent; box-sizing: border-box; background-repeat: no-repeat; vertical-align: middle;}
+ul,ol {list-style: none;}
+table {table-layout: fixed; border-collapse: collapse;}
+input[type="button"],input[type="submit"],button,a,label {cursor: pointer;}
+
+/* Common */
+.inner {margin: auto;}
+.inner:after {content: ""; display: block; clear:both;}
+.clearfix:after {content: ""; display: block; clear:both;}
+.ellipsis {overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}

@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'CoreGothicD-1Thin';
+  src: url('../font/CoreGothicD-1Thin.eot');
+  src: url('../font/CoreGothicD-1Thin.woff2') format('woff2'),
+       url('../font/CoreGothicD-1Thin.woff') format('woff'),
+       url('../font/CoreGothicD-1Thin.ttf') format('truetype'),
+       url('../font/CoreGothicD-1Thin.svg#CoreGothicD-1Thin') format('svg'),
+       url('../font/CoreGothicD-1Thin.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CoreGothicD-2ExtraLight';
+  src: url('../font/CoreGothicD-2ExtraLight.eot');
+  src: url('../font/CoreGothicD-2ExtraLight.woff2') format('woff2'),
+       url('../font/CoreGothicD-2ExtraLight.woff') format('woff'),
+       url('../font/CoreGothicD-2ExtraLight.ttf') format('truetype'),
+       url('../font/CoreGothicD-2ExtraLight.svg#CoreGothicD-2ExtraLight') format('svg'),
+       url('../font/CoreGothicD-2ExtraLight.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CoreGothicD-3Light';
+  src: url('../font/CoreGothicD-3Light.eot');
+  src: url('../font/CoreGothicD-3Light.woff2') format('woff2'),
+       url('../font/CoreGothicD-3Light.woff') format('woff'),
+       url('../font/CoreGothicD-3Light.ttf') format('truetype'),
+       url('../font/CoreGothicD-3Light.svg#CoreGothicD-3Light') format('svg'),
+       url('../font/CoreGothicD-3Light.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CoreGothicD-4Regular';
+  src: url('../font/CoreGothicD-4Regular.eot');
+  src: url('../font/CoreGothicD-4Regular.woff2') format('woff2'),
+       url('../font/CoreGothicD-4Regular.woff') format('woff'),
+       url('../font/CoreGothicD-4Regular.ttf') format('truetype'),
+       url('../font/CoreGothicD-4Regular.svg#CoreGothicD-4Regular') format('svg'),
+       url('../font/CoreGothicD-4Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CoreGothicD-5Medium';
+  src: url('../font/CoreGothicD-5Medium.eot');
+  src: url('../font/CoreGothicD-5Medium.woff2') format('woff2'),
+       url('../font/CoreGothicD-5Medium.woff') format('woff'),
+       url('../font/CoreGothicD-5Medium.ttf') format('truetype'),
+       url('../font/CoreGothicD-5Medium.svg#CoreGothicD-5Medium') format('svg'),
+       url('../font/CoreGothicD-5Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CoreGothicD-7ExtraBold';
+  src: url('../font/CoreGothicD-7ExtraBold.eot');
+  src: url('../font/CoreGothicD-7ExtraBold.woff2') format('woff2'),
+       url('../font/CoreGothicD-7ExtraBold.woff') format('woff'),
+       url('../font/CoreGothicD-7ExtraBold.ttf') format('truetype'),
+       url('../font/CoreGothicD-7ExtraBold.svg#CoreGothicD-7ExtraBold') format('svg'),
+       url('../font/CoreGothicD-7ExtraBold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CoreGothicM-3Light';
+  src: url('../font/CoreGothicM-3Light.eot');
+  src: url('../font/CoreGothicM-3Light.woff2') format('woff2'),
+       url('../font/CoreGothicM-3Light.woff') format('woff'),
+       url('../font/CoreGothicM-3Light.ttf') format('truetype'),
+       url('../font/CoreGothicM-3Light.svg#CoreGothicM-3Light') format('svg'),
+       url('../font/CoreGothicM-3Light.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CoreGothicM-4Regular';
+  src: url('../font/CoreGothicM-4Regular.eot');
+  src: url('../font/CoreGothicM-4Regular.woff2') format('woff2'),
+       url('../font/CoreGothicM-4Regular.woff') format('woff'),
+       url('../font/CoreGothicM-4Regular.ttf') format('truetype'),
+       url('../font/CoreGothicM-4Regular.svg#CoreGothicM-4Regular') format('svg'),
+       url('../font/CoreGothicM-4Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CoreGothicM-5Medium';
+  src: url('../font/CoreGothicM-5Medium.eot');
+  src: url('../font/CoreGothicM-5Medium.woff2') format('woff2'),
+       url('../font/CoreGothicM-5Medium.woff') format('woff'),
+       url('../font/CoreGothicM-5Medium.ttf') format('truetype'),
+       url('../font/CoreGothicM-5Medium.svg#CoreGothicM-5Medium') format('svg'),
+       url('../font/CoreGothicM-5Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CoreGothicM-7ExtraBold';
+  src: url('../font/CoreGothicM-7ExtraBold.eot');
+  src: url('../font/CoreGothicM-7ExtraBold.woff2') format('woff2'),
+       url('../font/CoreGothicM-7ExtraBold.woff') format('woff'),
+       url('../font/CoreGothicM-7ExtraBold.ttf') format('truetype'),
+       url('../font/CoreGothicM-7ExtraBold.svg#CoreGothicM-7ExtraBold') format('svg'),
+       url('../font/CoreGothicM-7ExtraBold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
